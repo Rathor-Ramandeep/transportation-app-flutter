@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637302519353",
+    "project_id": "community-map-of-oshawa",
+    "storage_bucket": "community-map-of-oshawa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637302519353:android:8ff0ed7acb4ea4b721bfe8",
+        "android_client_info": {
+          "package_name": "com.example.group_9_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637302519353-t7hqugcenjosvhmc55jovupdme6fsirl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1JdZmwH3rNlnU7t4oaI0m6znbV2Hqts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637302519353-t7hqugcenjosvhmc55jovupdme6fsirl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
